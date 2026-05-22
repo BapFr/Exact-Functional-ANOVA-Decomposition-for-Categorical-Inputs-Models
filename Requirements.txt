@@ -1,0 +1,14 @@
+#Requirements
+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+shap
+xgboost
+ucimlrepo
+torch
+torchvision
+treehfd
