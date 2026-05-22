@@ -29,8 +29,8 @@ $$
 
 ## Illustration 1 (_Mushrooms_ dataset)
 
-AAA
+![mushrooms](fig/img_mushrooms.png)
 
 ## Illustration 2 (_Binarized MNIST_ dataset)
 
-BBB
+![MNIST](fig/img_mnist.png)
