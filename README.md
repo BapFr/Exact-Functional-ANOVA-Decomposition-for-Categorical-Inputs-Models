@@ -1,4 +1,4 @@
-# Exact Functional ANOVA Decomposition for Categorical Inputs (_ICML 2026, Spotlight_)
+# Exact Functional ANOVA Decomposition for Categorical Inputs (_ICML 2026, Oral_)
 
 Code of the [paper](https://arxiv.org/pdf/2603.02673) by Baptiste Ferrere, Nicolas Bousquet, Fabrice Gamboa, Jean-Michel Loubes and Joseph Muré.
 
